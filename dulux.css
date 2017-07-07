@@ -1,0 +1,17 @@
+.jumbotron {
+	min-height: 600px;
+	background-image: url("https://bridgeapp.com.au/app/uploads/2017/07/joel-painter-1.jpg");
+	background-size:     cover;                      /* <------ */
+    background-repeat:   no-repeat;
+    background-position: bottom;
+}
+
+.lead {
+	color: #fff;
+	margin-top: 40px;
+}
+
+.display-3 {
+	color: #fff;
+	margin-top: 80px;
+}
